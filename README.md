@@ -1,6 +1,7 @@
 # Riot challenge
 
 ## Commands:
+- `npm install` to install dependencies
 - `npm start` to run locally
 - `npm test` to run tests
 
